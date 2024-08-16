@@ -1,0 +1,34 @@
+promise... 
+
+pending...
+fulfilled...
+reject..
+
+
+syn --> non sync
+
+line ------- 
+line *****
+
+-------------------------------------------------
+
+line -------  1hour
+---> it will wait...
+
+
+
+api call ---> time -->10 sec... Data -->
+
+use Data -->
+
+data undefined 
+
+
+
+
+Promise class...  constructor((calbackfunction(res,rej)=>{
+    
+}))
+
+then catch 
+async await

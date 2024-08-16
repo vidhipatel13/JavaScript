@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="./event2.js"></script>
+    <style>
+      .box {
+        width: 200px;
+        height: 200px;
+        background-color: aquamarine;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+        margin: 20px;
+        text-align: center;
+      }
+      .container {
+        display: flex; /* Use flexbox to create a row */
+      }
+    </style>
+  </head>
+  <body onload="acceptCookies()">
+    <div class="container">
+      <div class="box">
+        <h1>BOX 1</h1>
+      </div>
+      <div class="box">
+        <h1>BOX 2</h1>
+      </div>
+      <div class="box">
+        <h1>BOX 3</h1>
+      </div>
+    </div>
+    <button onclick="changeBox()">CHANGE BOX</button>
+  </body>
+</html>
+

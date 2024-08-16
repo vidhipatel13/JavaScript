@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Pizza",
+      "ingredients": [
+        "Pizza dough",
+        "Tomato sauce",
+        "Mozzarella cheese",
+        "Toppings of your choice (e.g., pepperoni, mushrooms, bell peppers)"
+      ]
+    },
+    {
+      "name": "Pasta",
+      "ingredients": [
+        "Pasta (e.g., spaghetti, penne)",
+        "Tomato sauce",
+        "Garlic",
+        "Olive oil",
+        "Parmesan cheese",
+        "Fresh basil leaves"
+      ]
+    },
+    {
+      "name": "Panipuri",
+      "ingredients": [
+        "Puris",
+        "Boiled potatoes",
+        "Tamarind chutney",
+        "Green chutney",
+        "Spiced water (panipuri pani)",
+        "Boondi (optional)"
+      ]
+    },
+    {
+      "name": "Pav Bhaji",
+      "ingredients": [
+        "Mixed vegetables (e.g., potatoes, peas, carrots, capsicum)",
+        "Onions",
+        "Tomatoes",
+        "Pav Bhaji masala",
+        "Butter",
+        "Pav (bread rolls)"
+      ]
+    }
+  ]
+
+
+
+
+
+
+
+
+  

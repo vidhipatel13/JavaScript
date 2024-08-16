@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="./empreg.js"></script>
+  </head>
+  <body>
+    <!-- <form action="https://www.google.com/"> -->
+    <form onsubmit="regEmployee(event)">
+      <div>
+        <input type="text" id="name" placeholder="Name"  />
+        <p id ="namerr"></p>
+      </div>
+      <div>
+        <input type="text" id="email" placeholder="Email" />
+        <p id ="emailerr"></p>
+      </div>
+      <div>
+        <input onkeyup="agevalidation(event)" type ="number" id="age" placeholder="Age" />
+        <p id ="ageerr"></p>
+      </div>
+      <div>
+        <input type="submit" value="ADD" />
+      </div>
+    </form>
+  </body>
+</html>

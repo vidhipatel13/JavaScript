@@ -1,0 +1,7 @@
+GET : data fetch...
+POST : data creation
+PUT : data update
+DELETE : data delete
+*/
+
+fetch():Promise
